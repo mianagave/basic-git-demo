@@ -1,0 +1,3 @@
+daftar belanjaan:
+-telur 1 kg
+- tomat 1 kg
