@@ -2,3 +2,4 @@ daftar belanjaan:
 -telur 1 kg
 - tomat 1 kg
 -beras 10 kg
+-ikan mas 5 kg
