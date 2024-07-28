@@ -3,3 +3,4 @@ daftar belanjaan:
 - tomat 1 kg
 -beras 10 kg
 -ikan mas 5 kg
+-cabe 1 kg
